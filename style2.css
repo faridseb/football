@@ -1,0 +1,30 @@
+h1{
+    border: black 5px solid;
+    width: 200px;
+}
+
+.HE1{
+    border: black 5px solid;
+    width: 300px;
+}
+
+div{
+    margin: 200px 0 0 0;
+}
+
+img{
+    width: 20%;
+    height: 46%;
+}
+
+
+hr{
+    border: black 5px solid;
+}
+
+
+body{
+    background-image: url(imagen-del-nuevo-cesped-del-santiago-bernabeu--a-dia-21-de-julio-de-2019--realmadrid.png);
+    color: aliceblue;
+}
+
